@@ -1,0 +1,15 @@
+th,td{
+	padding: 5px;
+	text-align: center;
+	border: 1px solid lightgrey;
+	border-radius: 5px;
+}
+h4{
+	text-align: center;
+}
+#forecast{
+	width: 602px;
+	height: 335px;
+	position: absolute;
+	left: 500px;
+}
